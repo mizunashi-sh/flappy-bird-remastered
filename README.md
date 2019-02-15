@@ -5,7 +5,7 @@ This is a term project for the course -- Introduction to Computer Science.
 ## Introduction
 This is a project aimed to remake the game -- *Flappy Bird* with the Python Programming Language.<br />
 The following is the demonstration image:<br />
-![Demonstration Image](https://camo.githubusercontent.com/caaab49b272e6042b8fd97d3cd18fb77171c0bdc/68747470733a2f2f6d697a756e617368692d73682e6769746875622e696f2f696d616765732f7265706f7369746f726965732f666c617070792d626972642d72656d617374657265642f64656d6f2d696d6167652e706e67)
+![Demonstration Image](https://mizunashi-sh.github.io/image-hosting/projects/flappy-bird-remastered/demo-image.png)
 
 ## Run this application
 This application is developed with the Python Programming Language. Thus, Python3 is necessary if you need to run this application. Besides, you need to install *pygame* in order to run this application successfully.
